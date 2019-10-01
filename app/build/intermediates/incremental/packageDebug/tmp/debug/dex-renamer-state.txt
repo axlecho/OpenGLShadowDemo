@@ -1,4 +1,0 @@
-#Thu Sep 26 12:46:41 CST 2019
-base.0=D\:\\OpenGLShadowDemo\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
-path.0=classes.dex
-renamed.0=classes.dex
